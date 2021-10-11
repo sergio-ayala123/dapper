@@ -1,0 +1,6 @@
+C:\Users\ventu\Documents\GitHub\dapper\Database\bin\Debug\Database.dacpac
+C:\Users\ventu\Documents\GitHub\dapper\Database\bin\Debug\Database.dll
+C:\Users\ventu\Documents\GitHub\dapper\Database\bin\Debug\Database.pdb
+C:\Users\ventu\Documents\GitHub\dapper\Database\obj\Debug\Database.dll
+C:\Users\ventu\Documents\GitHub\dapper\Database\obj\Debug\Database.pdb
+C:\Users\ventu\Documents\GitHub\dapper\Database\obj\Debug\Database.sqlproj.AssemblyReference.cache
